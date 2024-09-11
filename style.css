@@ -1,0 +1,92 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #e59494;
+}
+div{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 30px;
+}
+.imagen img{
+  height:500px;
+}
+.titulo p{
+  font-size: 90px;
+  text-align: center;
+  color: #700000;
+  font-family: 'Roboto';
+  background-color: #ff7a7a;
+  border-radius: 30px;  
+  padding: 20px;
+}
+.enlaces p{
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Arial Black';
+  color: #002ad1;
+}
+
+.info1 p{
+  font-size: 40px;
+  text-align: justify;
+  font-family: "Calibri";
+}
+  
+  .info5 p{
+    font-size: 40px;
+    text-align: justify;
+    font-family: "Calibri";
+    border-style: dotted;
+    padding: 10px;
+}
+.cooperación p{
+  font-size: 40px;
+  text-align: justify;
+  font-family: 'Calibri';
+border-style: double;
+  padding: 10px;
+}
+
+.imagen2 img{
+  height:400px;
+  margin: 50px;
+   align-items: right;
+  border-radius: 50px;
+  border-style: dashed;
+}
+
+.imagen3 img{
+  height:200px;
+  margin: 50px;
+  align-items:center;
+}
+.imagen4 img{
+  height:450px;
+  margin: 55px;
+  align-items:right;
+  border-radius: 60px;
+   border-style: double;
+}
+.info4 p{
+  font-size: 40px;
+  text-align: justify;
+  font-family: "Calibri";
+}
+  .info6 p{
+    font-size: 80px;
+    text-align: justify;
+    font-family: "Calibri";
+
+  }
+.imagen5 img{
+  height:400px;
+  margin: 55px;
+  align-items:right;
+  border-radius: 60px;
+   border-style: double;
+}
